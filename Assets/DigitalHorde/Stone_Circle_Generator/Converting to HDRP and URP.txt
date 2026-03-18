@@ -1,0 +1,10 @@
+Thank you for purchasing my Stone Circle Generator!
+
+The asset comes with built-in materials but these can easily be converted to either URP or HDRP materials using the standard method below:
+
+1. Select all materials in the Assets/VarcanRex/Stone_Circle_Generator/Materials folder.
+2. Click the Edit -> Rendering -> Materials -> Convert Selected Built-in Materials to HDRP/URP
+
+Then just wait for the conversion to complete, since their are 70+ materials it may take some time.
+
+For any questions or assistance please send an email to varcan.rex@outlook.com and include Stone Circle Generator in the subject line.
